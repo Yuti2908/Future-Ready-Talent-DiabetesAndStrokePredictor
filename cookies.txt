@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+p2908yuti.editorx.io	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1680704527|NfQHuXfoOecf
+p2908yuti.editorx.io	TRUE	/	FALSE	1999999999	SameSite	None
+p2908yuti.editorx.io	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=as1
+

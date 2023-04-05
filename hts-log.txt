@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 05 Apr 2023 19:52:06 at https://p2908yuti.editorx.io/healthriskpredictor +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://p2908yuti.editorx.io/healthriskpredictor -O1 "C:\My Web Sites\HealthRiskPredictor" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:52:21	Error: 	"Not Found" (404) at link https://p2908yuti.editorx.io/decodeURIComponent(e (from https://p2908yuti.editorx.io/healthriskpredictor)
+19:52:21	Error: 	"Not Found" (404) at link https://p2908yuti.editorx.io/sitemap.xml (from https://p2908yuti.editorx.io/healthriskpredictor)
+19:52:21	Error: 	"Not Found" (404) at link https://p2908yuti.editorx.io/feed.xml (from https://p2908yuti.editorx.io/healthriskpredictor)
+19:52:21	Error: 	"Not Found" (404) at link https://p2908yuti.editorx.io/ (from https://p2908yuti.editorx.io/healthriskpredictor)
+19:52:25	Error: 	"Not Found" (404) at link https://p2908yuti.editorx.io/healthriskpredictor/decodeURIComponent(e (from https://p2908yuti.editorx.io/healthriskpredictor/blank)
+19:52:25	Error: 	"Not Found" (404) at link https://p2908yuti.editorx.io/healthriskpredictor/robots.txt (from https://p2908yuti.editorx.io/healthriskpredictor/blank)
+19:52:25	Error: 	"Not Found" (404) at link https://p2908yuti.editorx.io/healthriskpredictor/feed.xml (from https://p2908yuti.editorx.io/healthriskpredictor/blank)
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 seconds : 29 links scanned, 21 files written (2188497 bytes overall) [635831 bytes received at 35323 bytes/sec], 2192870 bytes transferred using HTTP compression in 23 files, ratio 27%, 1.4 requests per connection
+(7 errors, 0 warnings, 0 messages)
