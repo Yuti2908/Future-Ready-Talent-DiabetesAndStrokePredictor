@@ -35,7 +35,7 @@ The project is structured as follows:
   
   2.Contains the frontend code and assets for the application.
   
-#Problem Statement: 
+# Problem Statement: 
 
 Millions of people worldwide are at risk of developing chronic health conditions such as diabetes and stroke.
 However, many of them are not aware of their risk factors and do not take proactive measures to prevent or manage these conditions. 
