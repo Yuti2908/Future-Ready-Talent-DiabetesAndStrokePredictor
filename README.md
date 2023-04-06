@@ -5,15 +5,15 @@ This project is a web-based health risk predictor that uses machine learning alg
 
 Technologies Used:
 
-  Azure Static Web App
+  1.Azure Static Web App
   
-  Azure Machine Learning
+  2.Azure Machine Learning
   
-  Azure Datasets
+  3.Azure Datasets
   
-  Visual Studio Code
+  4.Visual Studio Code
   
-  Editor X for Frontend
+  5.Editor X for Frontend
   
 Project Setup
 Clone the repository to your local machine.
@@ -23,17 +23,17 @@ Configure the Azure Static Web App with your GitHub repository and deploy the ap
 
 Access the application through the provided URL: 
 
-  Demo: https: https://polite-water-08490ff10.3.azurestaticapps.net/p2908yuti.editorx.io/healthriskpredictor.html
+  1.Demo: https: https://polite-water-08490ff10.3.azurestaticapps.net/p2908yuti.editorx.io/healthriskpredictor.html
   
-  Demo Video: https://drive.google.com/file/d/145oEB1xGdyUIRaZyis2TM-jk-8ngsnX0/view?usp=sharing
+  2.Demo Video: https://drive.google.com/file/d/145oEB1xGdyUIRaZyis2TM-jk-8ngsnX0/view?usp=sharing
 
 
 File Structure
 The project is structured as follows:
 
-  Contains the machine learning models and API endpoints for the application.
+  1.Contains the machine learning models and API endpoints for the application.
   
-  Contains the frontend code and assets for the application.
+  2.Contains the frontend code and assets for the application.
   
 Problem Statement: Millions of people worldwide are at risk of developing chronic health conditions such as diabetes and stroke.
 However, many of them are not aware of their risk factors and do not take proactive measures to prevent or manage these conditions. 
