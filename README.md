@@ -23,7 +23,7 @@ Configure the Azure Static Web App with your GitHub repository and deploy the ap
 
 # Access the application through the provided URL: 
 
-  1.Demo: https: https://polite-water-08490ff10.3.azurestaticapps.net/p2908yuti.editorx.io/healthriskpredictor.html
+  1.Demo: https://polite-water-08490ff10.3.azurestaticapps.net/p2908yuti.editorx.io/healthriskpredictor.html
   
   2.Demo Video: https://drive.google.com/file/d/145oEB1xGdyUIRaZyis2TM-jk-8ngsnX0/view?usp=sharing
 
